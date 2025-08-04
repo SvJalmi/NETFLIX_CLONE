@@ -1,6 +1,7 @@
 
 
 # 🎬 Netflix Clone
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A responsive **Netflix Clone** website built with **HTML, CSS, and JavaScript**.
 It replicates the front-end UI of Netflix including modern design, hover effects, responsive layout, and interactive elements.
